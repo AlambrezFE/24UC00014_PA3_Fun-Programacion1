@@ -18,8 +18,10 @@ def ejecutar_sistema():
         # repetición
         continuar = input("¿Desea realizar otro cálculo? (s/n): ").lower()
         if continuar != 's':
-            print("Gracias por usar el software educativo. ¡Hasta pronto!")
+            print("Gracias por usar el software educativo. ¡Hasta luegooo!")
             break
 
 if __name__ == "__main__":
     ejecutar_sistema()
+
+    
